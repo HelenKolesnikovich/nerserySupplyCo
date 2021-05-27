@@ -1,0 +1,33 @@
+/* HelveticaNeueCyr - 900 */
+@font-face {
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 900;
+    src: url(./assets/fonts/HelveticaNeueCyr-Black.otf);
+  }
+  /* HelveticaNeueCyr - 300 */
+  @font-face {
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 300;
+    src: url(./assets/fonts/HelveticaNeueCyr-Light.otf);
+  }
+  /* Nimbus - 400 */
+  @font-face {
+    font-family: "Nimbus";
+    font-style: normal;
+    font-weight: 400;
+    src: url(./assets/fonts/NIMBSTB.TTF);
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
